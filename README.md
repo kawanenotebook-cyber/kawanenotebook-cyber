@@ -1,4 +1,4 @@
-# 🌟 Olá, bem-vinda ao meu perfil!
+# 🌟 Olá, bem-vindo ao meu perfil!
 
 Me chamo **Kawane Maciel** e sou uma entusiasta da tecnologia dando os meus primeiros passos no mundo do desenvolvimento. Busco criar soluções organizadas, limpas e eficientes enquanto expando meus horizontes técnicos.
 
