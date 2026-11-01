@@ -2,20 +2,24 @@
 
 Me chamo **Kawane Maciel** e sou uma entusiasta da tecnologia dando os meus primeiros passos no mundo do desenvolvimento. Busco criar soluções organizadas, limpas e eficientes enquanto expando meus horizontes técnicos.
 
-> **Objetivo Profissional:** Conseguir minha primeira oportunidade como desenvolvedora Júnior ou Estagiária.
+> 🎯 **Objetivo Profissional:** Conseguir minha primeira oportunidade como desenvolvedora Júnior ou Estagiária.
 
 ---
 
 ### 📋 Sobre Mim
-* **Foco atual:** Construindo uma base sólida em lógica de programação e fundamentos web.
-* **Aprendendo:** Dedicando-me diariamente a estudar e praticar novas tecnologias.
-* **LinkedIn:** [Acesse meu perfil profissional aqui](www.linkedin.com/in/kawane-maciel-a48b94353)
+
+| 💼 Redes & Contato | 📚 Minha Jornada |
+| :--- | :--- |
+| **LinkedIn:** [Acesse meu perfil profissional aqui](linkedin.com/in/kawane-maciel-a48b94353) | **Foco atual:** Construindo uma base sólida em lógica e fundamentos web. |
+| **Status:** Aberta a conexões e parcerias de estudo. | **Estudando:** Dedicando-me diariamente a praticar novas tecnologias. |
 
 ---
 
 ### 💻 Tecnologias em Desenvolvimento
-* HTML5
-* CSS3
-* JavaScript
-* Git e GitHub
-*
+
+```html
+<!-- Tecnologias e linguagens que estou praticando -->
+💡 HTML5 & CSS3
+⚡ JavaScript & Java
+🛠️ Git & GitHub
+```
